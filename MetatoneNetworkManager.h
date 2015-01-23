@@ -7,7 +7,7 @@
 //  Updated Version to work with F53OSC.
 //
 
-#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 #import "F53OSC.h"
 
 // IP Address method
